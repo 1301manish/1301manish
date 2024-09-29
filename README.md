@@ -126,17 +126,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 ![1301manish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1301manish&theme=github_dark&show_icons=true&hide_border=false)
 
-### Support Me:
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jossyboydgenuis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jossyboydgenius"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jossyboydgenius&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1301manish&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
 
 ![Banner1](https://github.com/1301manish/1301manish/blob/main/Banner.png)
