@@ -100,9 +100,9 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-[![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1301manish&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1301manish&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1301manish&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1301manish&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1301manish&theme=github_dark&utcOffset=8)
 
 
 <picture>
