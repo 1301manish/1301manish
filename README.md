@@ -82,7 +82,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 ## Socials:
 
-<a href="https://www.linkedin.com/in/awejosepholaitan/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/manish-kumar-3957a12a5/" target="_blank" rel="noreferrer">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/8.png" />
        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Linkedin.png" />
