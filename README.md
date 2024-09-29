@@ -124,7 +124,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 ![1301manish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1301manish&theme=github_dark&hide_border=false)
 
-![1301manish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1301manish&theme=github_dark&show_icons=true&hide_border=false)
+![1301manish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1301manish&layout=pie&theme=github_dark&show_icons=true&hide_border=false)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1301manish&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
