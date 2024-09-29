@@ -120,11 +120,11 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
   />
 </picture>
 
-<a href="http://www.github.com/jossyboydgenius"><img src="https://github-readme-stats.vercel.app/api?username=jossyboydgenius&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="jossyboydgenius's GitHub stats" /></a>
+![1301manish's Stats](https://github-readme-stats.vercel.app/api?username=1301manish&theme=github_dark&show_icons=true&hide_border=false&count_private=true)
 
-<a href="http://www.github.com/jossyboydgenius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jossyboydgenius&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![1301manish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1301manish&theme=github_dark&hide_border=false)
 
-<a href="https://github.com/jossyboydgenius" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossyboydgenius&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![1301manish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1301manish&theme=github_dark&show_icons=true&hide_border=false)
 
 ### Support Me:
 
