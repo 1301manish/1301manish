@@ -57,9 +57,9 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jossyboydgenius&label=Profile%20views&color=0e75b6&style=flat" alt="jossyboydgenius" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1301manish&label=Profile%20views&color=0e75b6&style=flat" alt="1301manish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jossyboydgenius" alt="jossyboydgenius" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1301manish" alt="1301manish" /></a> </p>
 
 
 ## Connect with me:
