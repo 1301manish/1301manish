@@ -126,7 +126,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 ![1301manish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1301manish&layout=pie&theme=github_dark&show_icons=true&hide_border=false)
 
-[![manish1301's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manish1301&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![manish1301's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manish1301&layout=default&disable_animation=false&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1301manish&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
