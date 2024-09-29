@@ -4,7 +4,7 @@
     <h1>
         Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
         <br>
-     I'm Awe Joseph.
+     I'm Manish Kumar.
     </h1>
 </div>
 
@@ -14,26 +14,26 @@
 </h1>
 
 <h3 align="center">
-    I'm a fullstack Software Engineer 👨‍💻, Web Developer 🌐, and Cybersecurity Expert! 🔐
+    I'm a Web Developer 🌐 & a Problem Solver 🧩!
 </h3>
 
 <p align="center">
-    Welcome to my digital portfolio where code meets creativity and security.<br>
+    Welcome to my digital portfolio where code meets creativity and innovation.<br>
     Feel free to explore my projects, and let’s connect to innovate and build the future together!
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-* 🌍  I'm based in Nigeria.
-* ✉️  You can contact me at [jossyboydgenius@gmail.com](mailto:jossyboydgenius@gmail.com)
+* 🌍  I'm based in India.
+* ✉️  You can contact me at [1301manishkumar@gmail.com](mailto:1301manishkumar@gmail.com)
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
-* 🧠  I'm currently learning Machine Learning and other programming languages. 
+* 🧠  I'm currently learning Web Development. 
 * 🤝  I'm open to collaborating on any interesting projects.
 * ⚡  I'm called TechApostle.
   
-<a href="https://www.x.com/Kiss_johzzy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+<a href="https://www.x.com/ManishKuma96472" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
-<a href="https://www.linkedin.com/in/awejosepholaitan/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/manish-kumar-3957a12a5/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
 </a>
 
