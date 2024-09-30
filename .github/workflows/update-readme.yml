@@ -1,1 +1,25 @@
+name: Update README
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Append to README
+        run: |
+          echo "\n\n<!-- Updated on $(date) -->\n" >> README.md
+          git config --local user.email "1301manishkumar@gmail.com"
+          git config --local user.name "1301manish"
+          git add README.md
+          git commit -m "Automated update of README"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
