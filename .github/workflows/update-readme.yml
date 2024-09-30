@@ -16,8 +16,8 @@ jobs:
       - name: Append to README
         run: |
           echo "\n\n<!-- Updated on $(date) -->\n" >> README.md
-          git config --local user.email "1301manishkumar@gmail.com"
-          git config --local user.name "1301manish"
+          git config --local user.email "your_email@example.com"  # Replace with your email
+          git config --local user.name "Your Name"  # Replace with your name
           git add README.md
           git commit -m "Automated update of README"
           git push
