@@ -60,7 +60,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 -------------
 
 
-## 🏆 Badges:
+## 🏆 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1301manish" alt="1301manish" /></a> </p>
 
 
