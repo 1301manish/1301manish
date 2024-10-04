@@ -39,7 +39,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 [![wakatime](https://wakatime.com/badge/user/018e2ed4-d4cc-45be-9ce7-f6e05b5a5809.svg)](https://wakatime.com/@018e2ed4-d4cc-45be-9ce7-f6e05b5a5809)
 
-[![](https://visitcount.itsvg.in/api?id=1301manish&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=1301manish&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### 💻 Languages and Tools:
 
