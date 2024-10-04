@@ -43,6 +43,8 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 [![](https://visitcount.itsvg.in/api?id=1301manish&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+[![LeetCode user manish1301](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmanish1301&logo=leetcode&logoColor=yellow)](https://leetcode.com/manish1301/)
+
 ### 💻 Languages and Tools:
 
 <p align="left">
@@ -61,8 +63,6 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 -------------
 
-## Badges:
-[![LeetCode user manish1301](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmanish1301&logo=leetcode&logoColor=yellow)](https://leetcode.com/manish1301/)
 
 ## 🏆 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1301manish" alt="1301manish" /></a> </p>
