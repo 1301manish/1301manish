@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/1301manish/1301manish/blob/main/Banner.png)
+<div align="center">
+    <a href="https://app.daily.dev/manish1301"><img src="https://api.daily.dev/devcards/v2/9EOGRZoVwOneWOFRxImM8.png?r=ks7&type=wide"       width="652" alt="Manish Kumar's Dev Card"/></a>
+</div>
 
 <div align="center">
     <h1>
