@@ -62,7 +62,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 
 -------------
 
-## Badges:
+## 🥇Badges:
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=manish1301&theme=dark&border=border&animated=true)
 
 ## 🏆 GitHub Trophies:
