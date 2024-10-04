@@ -112,6 +112,7 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 -------------
 
 ## 📈Contribution Activity
+![snake animation](https://github.com/<1301manish>/<1301manish>/blob/output/github-contribution-grid-snake2.svg)
 
 -------------
 
