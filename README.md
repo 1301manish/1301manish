@@ -38,10 +38,9 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 <a href="https://www.linkedin.com/in/manish-kumar-3957a12a5/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
 </a>
-
 [![wakatime](https://wakatime.com/badge/user/018e2ed4-d4cc-45be-9ce7-f6e05b5a5809.svg)](https://wakatime.com/@018e2ed4-d4cc-45be-9ce7-f6e05b5a5809)
-
 [![](https://visitcount.itsvg.in/api?id=1301manish&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 [![LeetCode user manish1301](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmanish1301&logo=leetcode&logoColor=yellow)](https://leetcode.com/manish1301/)
 
