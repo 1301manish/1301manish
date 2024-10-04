@@ -133,6 +133,4 @@ src="https://img.shields.io/twitter/follow/ManishKuma96472?logo=twitter&style=fo
 [![manish1301's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manish1301&layout=compact&disable_animations=false&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1301manish&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-                     
 
-![Banner1](https://github.com/1301manish/1301manish/blob/main/Banner.png)
