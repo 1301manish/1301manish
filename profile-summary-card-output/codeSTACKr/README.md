@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/1301manish/1301manish/main/profile-summary-card-output/codeSTACKr/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/1301manish/1301manish/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
-```
-
-    
