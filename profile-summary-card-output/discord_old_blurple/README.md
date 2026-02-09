@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/1301manish/1301manish/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/1301manish/1301manish/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
+```
+
+    
