@@ -35,6 +35,16 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/1301manish/1301manish/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./3-stats.svg)
 
 ```
