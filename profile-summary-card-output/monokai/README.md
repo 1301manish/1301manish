@@ -15,6 +15,16 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/1301manish/1301manish/main/profile-summary-card-output/monokai/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
